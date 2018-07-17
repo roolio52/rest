@@ -1,9 +1,7 @@
 {
-  "res": [
-    {
-        "message": "",
-        "validate": true,
-        "login": "jdelaborde
-    }
-  ]
+  "res": {
+    "message": "",
+    "validate": true,
+    "login": "jdelaborde
+  }
 }
