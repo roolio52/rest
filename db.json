@@ -1,7 +1,5 @@
 {
-  "res": {
-    "message": "",
-    "validate": true,
-    "login": "jdelaborde"
-  }
+  "message": "OK",
+  "validate": true,
+  "login": "jdelaborde"
 }
